@@ -1,5 +1,8 @@
-# Port Management with Apache on Ubuntu
-
+# INFORMATION SYSTEMS ADMINISTRATION AND DEVELOPMENT
+## OPEN SOURCE TECHNOLOGIES IN WEB DEVELOPMENT
+## Port Management with Apache on Ubuntu
+![Apache-http-server](https://github.com/user-attachments/assets/e4d18767-5b95-4552-827d-5a22988e3e6b)
+---
 Hello community, here is how to manage ports when you have multiple applications deployed using Apache server on Ubuntu.
 
 ## Step 1: Configure Apache Virtual Host for Django, laravel, flask or any
@@ -76,3 +79,22 @@ Listen 5050
 ```sh
 sudo systemctl restart apache2
 ```
+
+**My Contacts**
+
+**WhatsApp**  
++255675839840  
++255656848274
+
+**YouTube**  
+[Visit my YouTube Channel](https://www.youtube.com/channel/UCjepDdFYKzVHFiOhsiVVffQ)
+
+**Telegram**  
++255656848274  
++255738144353
+
+**PlayStore**  
+[Visit my PlayStore Developer Page](https://play.google.com/store/apps/dev?id=7334720987169992827&hl=en_US&pli=1)
+
+**GitHub**  
+[Visit my GitHub](https://github.com/shamiraty/)
